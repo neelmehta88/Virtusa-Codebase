@@ -13,6 +13,7 @@ D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\refint\HandsOnAr
 D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArray.pdb
 D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArray.genruntimeconfig.cache
 D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\ref\HandsOnArray.dll
+<<<<<<< HEAD
 D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\bin\Debug\net6.0\HandsOnArray.exe
 D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\bin\Debug\net6.0\HandsOnArray.deps.json
 D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\bin\Debug\net6.0\HandsOnArray.runtimeconfig.json
@@ -28,3 +29,20 @@ D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\refint\Hand
 D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArray.pdb
 D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArray.genruntimeconfig.cache
 D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\ref\HandsOnArray.dll
+=======
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\bin\Debug\net6.0\HandsOnArray.exe
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\bin\Debug\net6.0\HandsOnArray.deps.json
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\bin\Debug\net6.0\HandsOnArray.runtimeconfig.json
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\bin\Debug\net6.0\HandsOnArray.dll
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\bin\Debug\net6.0\HandsOnArray.pdb
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArray.csproj.AssemblyReference.cache
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArray.AssemblyInfoInputs.cache
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArray.AssemblyInfo.cs
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArray.csproj.CoreCompileInputs.cache
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArray.dll
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\refint\HandsOnArray.dll
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArray.pdb
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\HandsOnArray.genruntimeconfig.cache
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnArrays\obj\Debug\net6.0\ref\HandsOnArray.dll
+>>>>>>> 0fa594bca209a4050b8aa9cc5a32305e64734a67

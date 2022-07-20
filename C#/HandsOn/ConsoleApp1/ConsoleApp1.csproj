@@ -5,11 +5,6 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-<<<<<<< HEAD
-    <StartupObject>HandsOnStrings.Demo8</StartupObject>
-=======
-    <StartupObject>HandsOnStrings.Program</StartupObject>
->>>>>>> 0fa594bca209a4050b8aa9cc5a32305e64734a67
   </PropertyGroup>
 
 </Project>

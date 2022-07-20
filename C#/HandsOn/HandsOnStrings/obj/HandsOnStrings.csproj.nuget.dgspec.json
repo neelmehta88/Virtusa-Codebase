@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnStrings\\HandsOnStrings.csproj": {}
   },
   "projects": {
@@ -15,6 +16,25 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnStrings\\HandsOnStrings.csproj": {}
+  },
+  "projects": {
+    "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnStrings\\HandsOnStrings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnStrings\\HandsOnStrings.csproj",
+        "projectName": "HandsOnStrings",
+        "projectPath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnStrings\\HandsOnStrings.csproj",
+        "packagesPath": "C:\\Users\\santhosh\\.nuget\\packages\\",
+        "outputPath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnStrings\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\santhosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 0fa594bca209a4050b8aa9cc5a32305e64734a67
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

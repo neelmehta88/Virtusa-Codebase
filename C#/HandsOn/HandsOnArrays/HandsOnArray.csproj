@@ -5,7 +5,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+<<<<<<< HEAD
     <StartupObject>HandsOnArray.Demo6</StartupObject>
+=======
+    <StartupObject>HandsOnArray.Demo5</StartupObject>
+>>>>>>> 0fa594bca209a4050b8aa9cc5a32305e64734a67
   </PropertyGroup>
 
 </Project>

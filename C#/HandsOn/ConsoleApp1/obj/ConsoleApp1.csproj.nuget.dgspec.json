@@ -1,40 +1,23 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj": {}
+    "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj": {
+    "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj",
-        "projectName": "HandsOnArray",
-        "projectPath": "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-    "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj": {}
-  },
-  "projects": {
-    "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj",
-        "projectName": "HandsOnArray",
-        "projectPath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj",
+        "projectUniqueName": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\santhosh\\.nuget\\packages\\",
-        "outputPath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\obj\\",
+        "outputPath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\santhosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 0fa594bca209a4050b8aa9cc5a32305e64734a67
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

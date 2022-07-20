@@ -37,9 +37,9 @@ namespace HandsOnStrings
 
             //Substring()
             string s6 = "Good Evening";
-           s6 = s6.Substring(5); //Evening
+          // s6 = s6.Substring(5); //Evening
            // Console.WriteLine(s6);
-             s6.Substring(0, 4); //Good
+             s6=s6.Substring(5, 4); //Good
             Console.WriteLine(s6);
             Console.WriteLine(s6);
         }

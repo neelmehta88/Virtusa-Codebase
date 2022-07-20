@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "oyLinf8KNWwMg91DKFGSD1PD2K8OHyW+YuDbVzDQbfJ4Pr4ygKcItjmkMM/UNvwoqBvBFPTpU0PVRDQYiMOVDg==",
   "success": true,
   "projectFilePath": "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj",
+=======
+  "dgSpecHash": "QngfYoIOKdOqsWZubdaZK2cPnu1+WrfKoJ8JnC4ZirDQDxhpka5mF7EhcCn4OZpR9DP8wdCL7txclkJEHS6Pmg==",
+  "success": true,
+  "projectFilePath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj",
+>>>>>>> 0fa594bca209a4050b8aa9cc5a32305e64734a67
   "expectedPackageFiles": [],
   "logs": []
 }

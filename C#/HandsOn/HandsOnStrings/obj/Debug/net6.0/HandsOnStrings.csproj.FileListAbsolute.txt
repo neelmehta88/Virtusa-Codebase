@@ -13,6 +13,7 @@ D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\refint\HandsOnS
 D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.pdb
 D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.genruntimeconfig.cache
 D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\ref\HandsOnStrings.dll
+<<<<<<< HEAD
 D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\bin\Debug\net6.0\HandsOnStrings.exe
 D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\bin\Debug\net6.0\HandsOnStrings.deps.json
 D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\bin\Debug\net6.0\HandsOnStrings.runtimeconfig.json
@@ -28,3 +29,20 @@ D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\refint\Han
 D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.pdb
 D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.genruntimeconfig.cache
 D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\ref\HandsOnStrings.dll
+=======
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\bin\Debug\net6.0\HandsOnStrings.exe
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\bin\Debug\net6.0\HandsOnStrings.deps.json
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\bin\Debug\net6.0\HandsOnStrings.runtimeconfig.json
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\bin\Debug\net6.0\HandsOnStrings.dll
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\bin\Debug\net6.0\HandsOnStrings.pdb
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.csproj.AssemblyReference.cache
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.AssemblyInfoInputs.cache
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.AssemblyInfo.cs
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.csproj.CoreCompileInputs.cache
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.dll
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\refint\HandsOnStrings.dll
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.pdb
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.genruntimeconfig.cache
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\ref\HandsOnStrings.dll
+>>>>>>> 0fa594bca209a4050b8aa9cc5a32305e64734a67
