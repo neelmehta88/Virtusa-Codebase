@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>HandsOnStrings.Demo10</StartupObject>
+    <StartupObject>HandsOnStrings.Demo8</StartupObject>
   </PropertyGroup>
 
 </Project>

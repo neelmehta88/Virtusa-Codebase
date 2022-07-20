@@ -1,0 +1,5 @@
+D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnLoops\obj\Debug\net6.0\HandsOnLoops.csproj.AssemblyReference.cache
+D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnLoops\obj\Debug\net6.0\HandsOnLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnLoops\obj\Debug\net6.0\HandsOnLoops.AssemblyInfoInputs.cache
+D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnLoops\obj\Debug\net6.0\HandsOnLoops.AssemblyInfo.cs
+D:\DotNet\Virtusa-Codebase\C#\HandsOn\HandsOnLoops\obj\Debug\net6.0\HandsOnLoops.csproj.CoreCompileInputs.cache

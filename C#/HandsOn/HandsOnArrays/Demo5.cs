@@ -9,7 +9,7 @@ namespace HandsOnArray
     class Demo5
     {
         static void Main()
-        {
+        { 
             //jagged array
             int[][] jg = new int[3][]; //3 is the no of elements store in the array
             jg[0] = new int[] { 23, 34, 45, 56 };

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GFF+3blsrqol2ejhZ0gUW0xeSsLqz2OlcIrWQd6sIfRTAMpI6tvDL0N7MgQ81SIb3gnHo4iPDM4ynpnNFUgcgQ==",
+  "dgSpecHash": "3SAgONnpSz2LKax3Xx0b/RKruLIPxVEmW9ADkGSs1q7tqRx9iKwPhQwMev2bGDBUiFvKPqzMuGpOtAhea8nXyw==",
   "success": true,
-  "projectFilePath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnConditionalStatments\\HandsOnConditionalStatments.csproj",
+  "projectFilePath": "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnConditionalStatments\\HandsOnConditionalStatments.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

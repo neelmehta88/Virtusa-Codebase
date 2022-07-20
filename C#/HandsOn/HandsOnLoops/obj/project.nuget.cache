@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKFFh0bWuz7ts0hcALo4j+cao4evXfhBMiaan9laglKPAS+Kc3VdGtjyc0goznz+L7MENNHwvG6rDQa7AlTIQg==",
+  "dgSpecHash": "QShgmg88k5clVvvYRc8GI4fu/OqaCyK2jnu33ySUuxPkDNI6AVTeTnh/E5c/2DZQeeVr/wrhBzHTkphQR1iYCg==",
   "success": true,
-  "projectFilePath": "D:\\JPMC\\JPMC-CODEBASE\\C#\\HandsOn\\HandsOnLoops\\HandsOnLoops.csproj",
+  "projectFilePath": "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnLoops\\HandsOnLoops.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

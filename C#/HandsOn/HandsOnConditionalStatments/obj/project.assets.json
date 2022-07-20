@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\santhosh\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnConditionalStatments\\HandsOnConditionalStatments.csproj",
+      "projectUniqueName": "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnConditionalStatments\\HandsOnConditionalStatments.csproj",
       "projectName": "HandsOnConditionalStatments",
-      "projectPath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnConditionalStatments\\HandsOnConditionalStatments.csproj",
-      "packagesPath": "C:\\Users\\santhosh\\.nuget\\packages\\",
-      "outputPath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnConditionalStatments\\obj\\",
+      "projectPath": "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnConditionalStatments\\HandsOnConditionalStatments.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnConditionalStatments\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\santhosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

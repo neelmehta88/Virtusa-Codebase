@@ -8,26 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SANTHOSH\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JPMC\\JPMC-CODEBASE\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj",
+      "projectUniqueName": "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj",
       "projectName": "HandsOnArray",
-      "projectPath": "D:\\JPMC\\JPMC-CODEBASE\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj",
-      "packagesPath": "C:\\Users\\SANTHOSH\\.nuget\\packages\\",
-      "outputPath": "D:\\JPMC\\JPMC-CODEBASE\\C#\\HandsOn\\HandsOnArrays\\obj\\",
+      "projectPath": "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\HandsOnArray.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "D:\\DotNet\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnArrays\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\SANTHOSH\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
