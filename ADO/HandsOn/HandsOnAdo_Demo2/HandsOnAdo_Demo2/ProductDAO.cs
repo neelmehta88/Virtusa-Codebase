@@ -12,7 +12,7 @@ namespace HandsOnAdo_Demo2
         {
             try
             {
-                using(SqlConnection con=new SqlConnection(@"Data Source=SANTU\MSSQLSERVER2019;Initial Catalog=Training1DB;Integrated Security=True"))
+                using(SqlConnection con=new SqlConnection(@"Data Source=DESKTOP-4O1D65I\SQLEXPRESS;Initial Catalog=TrainingDB;Integrated Security=True"))
                 {
                     SqlCommand cmd = new SqlCommand("Select * from Product", con);
                     con.Open();
@@ -61,15 +61,16 @@ namespace HandsOnAdo_Demo2
             {
                 using (SqlConnection con = new SqlConnection(@"Data Source = SANTU\MSSQLSERVER2019; Initial Catalog = Training1DB; Integrated Security = True"))
                 {
-                    SqlCommand cmd = new SqlCommand("insert into Product values(@Pid,@Pname,@Price,@Stock)", con);
-                    //passing values to sql parameter
-                    cmd.Parameters.AddWithValue("@Pid", pid);
-                    cmd.Parameters.AddWithValue("@Pname", pname);
-                    cmd.Parameters.AddWithValue("@Price", price);
-                    // cmd.Parameters.AddWithValue("@Stock", stock);
-                    SqlParameter p = new SqlParameter("@Stock", stock);
-                    //add paramter to cmd 
-                    cmd.Parameters.Add(p);
+                    //SqlCommand cmd = new SqlCommand("insert into Product values(@Pid,@Pname,@Price,@Stock)", con);
+                    ////passing values to sql parameter
+                    //cmd.Parameters.AddWithValue("@Pid", pid);
+                    //cmd.Parameters.AddWithValue("@Pname", pname);
+                    //cmd.Parameters.AddWithValue("@Price", price);
+                    //// cmd.Parameters.AddWithValue("@Stock", stock);
+                    //SqlParameter p = new SqlParameter("@Stock", stock);
+                    ////add paramter to cmd 
+                    //cmd.Parameters.Add(p);
+                    SqlCommand cmd = new SqlCommand($"insert into product values({pid},'{pname}',{price},{stock})");
                     con.Open();
                     cmd.ExecuteNonQuery();
                 }
@@ -101,10 +102,11 @@ namespace HandsOnAdo_Demo2
             {
                 using (SqlConnection con = new SqlConnection(@"Data Source = SANTU\MSSQLSERVER2019; Initial Catalog = Training1DB; Integrated Security = True"))
                 {
-                    SqlCommand cmd = new SqlCommand("Update Product set Price=@Price,Stock=@Stock Where Pid=@Pid", con);
-                    cmd.Parameters.AddWithValue("@Pid", pid);
-                    cmd.Parameters.AddWithValue("@Price", price);
-                    cmd.Parameters.AddWithValue("@stock", stock);
+                    //SqlCommand cmd = new SqlCommand("Update Product set Price=@Price,Stock=@Stock Where Pid=@Pid", con);
+                    //cmd.Parameters.AddWithValue("@Pid", pid);
+                    //cmd.Parameters.AddWithValue("@Price", price);
+                    //cmd.Parameters.AddWithValue("@stock", stock);
+                    SqlCommand cmd = new SqlCommand($"Update Product set Price={price},Stock={stock} Where Pid={pid}", con);
                     con.Open();
                     cmd.ExecuteNonQuery();
                 }
