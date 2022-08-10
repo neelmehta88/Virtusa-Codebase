@@ -1,0 +1,32 @@
+There are two kinds of Migration -
+
+Automated Migration
+Code based Migration
+
+Automated Migration
+
+Step 1 - Open Package Manger Console from Tools ? NuGet Package Manger ? Package Manger Console.
+
+Step 2 - To enable automated migration run the following command in Package Manager Console.
+
+PM> enable-migrations -EnableAutomaticMigrations:$true
+
+Step 3 - Once the command runs successfully, it creates an internal sealed Configuration class in the Migration folder of your project as shown in the following code.
+
+Step 4 - Set the database initializer in the context class with the new DB initialization strategy MigrateDatabaseToLatestVersion.
+public MyContext() : base("MyContextDB") {
+      Database.SetInitializer(new MigrateDatabaseToLatestVersion<MyContext, 
+         EFCodeFirstDemo.Migrations.Configuration>("MyContextDB"));
+   }
+Step 5 - You have set up automated migration. When you execute your application, then it will automatically take care of migration, when you change the model.
+
+Step 6 - To handle the property migration you need to set AutomaticMigrationDataLossAllowed = true in the configuration class constructor.
+
+public Configuration() {
+   AutomaticMigrationsEnabled = true;
+   AutomaticMigrationDataLossAllowed = true;
+   ContextKey = "EFCodeFirstDemo.MyContext";
+}
+
+Note:To know more about enable-migrations command parameters, execute get-help enable-migrations or get-help enable-migrations -detailed command in PMC as shown below.
+

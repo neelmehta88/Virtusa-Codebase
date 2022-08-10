@@ -1,0 +1,5 @@
+PM> enable-migrations -EnableAutomaticMigrations:$true
+public MyContext() : base("MyContextDB") {
+      Database.SetInitializer(new MigrateDatabaseToLatestVersion<MyContext, 
+         EFCodeFirstDemo.Migrations.Configuration>("MyContextDB"));
+}

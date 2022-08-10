@@ -1,0 +1,3 @@
+PM> enable-migrations -EnableAutomaticMigrations:$true          
+PM> Update-Database -Verbose
+The "-Verbose" flag specifies to show the SQL Statements being applied to the target database in the console. You get results as in the following figure in the Package Manager Console.
