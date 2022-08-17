@@ -1,0 +1,19 @@
+Regex Pattern expression
+----------------------
+\d-allow only numerics
+\D-allow only non numerics
+{}-set range \d{10} 'allow only 10 numerics
+{min,max}  \D{6,8} ''allow 6 to 8 non numerics
+[]-group char
+[0-9]-allow numbers between 0 and 9
+[a-z]
+[A-Z]
+[789]
+[asd789]
+
+? allow 0 or 1 occurence of char
++ allow 1 to many occrence of char
+* allow 0 to many occrence of char
+
+[6789]\d{9}
+[a-z_]+[0-9a-z]@[a-z]{3,5].[a-z]{2,3}

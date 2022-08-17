@@ -1,0 +1,37 @@
+Website or WebApplication
+------------------------
+1.static data
+common to all the users
+2.dynamic data
+data is change to user to user
+Webpage
+-------
+A Website is a collection of web-pages
+A Webpage contains data or information
+1.static-page
+page info is common to all the users
+2.dynamic-page
+page data is changing to user to user
+
+Technology-stack for static-page
+-------------------------------
+Page_Design(UI Technologies)
+HTML,HTML5
+CSS,Bootstrap
+Javascript(client -side script technlogies) and Jquery
+
+Technology-stack for dynamic page
+--------------------------------
+Required Web-Server Compulsary(Tomcat,IIS)
+Page-Design
+HTML,HTML5,
+CSS,Bootstrap
+Backend_Code
+------------
+Technology-Stack for Backend-Code
+Server-Side Technologies
+1.PHP
+2.JSP
+3.Spring Boot,Spring MVC
+4.Asp.net
+5.Asp.net MVC

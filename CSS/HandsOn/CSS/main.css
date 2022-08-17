@@ -1,0 +1,79 @@
+body
+        {
+            background-image: url("Images/soft-wallpaper.png");
+        }
+        #header
+        {
+            background-image: url('Images/header-background.png');
+            margin-left: 10px;
+            margin-right: 10px;
+            border: 1px solid gray;
+            height:150px;
+        }
+        #header h1
+        {
+            text-align: center;
+            color: white;
+        }
+        #header img
+        {
+            float: left;
+            padding-left: 10px;
+            padding-top: 10px;
+            width: 100px;
+            height: 100px;
+        }
+        #nav
+        {
+            margin-left: 10px;
+            margin-right: 10px;
+            margin-top: 2px;
+            height: 50px;
+            background-color: olive;
+         
+        }
+        #nav table
+        {
+            margin-left: auto;
+            margin-right: auto;
+            width:300px;
+            padding-top: 5px;
+        }
+
+        #nav a
+        {
+            color: white;
+            padding:10px;
+            text-decoration: none;
+           
+        }
+        #nav a:hover
+        {
+            color: coral;
+        }
+        #content
+        {
+            margin-left: 10px;
+            margin-right: 10px;
+            margin-top: 0px;
+            height: 300px;
+            background-color:white;
+        }
+        #content h1{
+            padding: 10px;
+        }
+        #footer
+        {
+            margin-left: 10px;
+            margin-right: 10px;
+            margin-top: 0px;
+            height: 40px;
+            background-color:burlywood;
+        }
+        #footer h2
+        {
+            text-align: center;
+            color: black;
+            font-size: 15px;
+            padding-top: 10px;
+        }
